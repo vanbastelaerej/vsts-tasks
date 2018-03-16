@@ -103,8 +103,7 @@
             "properties": {
                 "EditableOptions": "True"
             },
-            "helpMarkDown": "The Resource group name is required when the deployment target is either a deployment slot or an App Service Environment.<br />Enter or Select the Azure Resource group that contains the Azure App Service specified above.",
-            "visibleRule": "DeployToSlotOrASEFlag = true"
+            "helpMarkDown": "The Resource group name is required.<br />Enter or Select the Azure Resource group that contains the Azure App Service specified above.",
         },
         {
             "name": "SlotName",
