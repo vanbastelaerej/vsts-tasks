@@ -103,7 +103,7 @@
             "properties": {
                 "EditableOptions": "True"
             },
-            "helpMarkDown": "The Resource group name is required.<br />Enter or Select the Azure Resource group that contains the Azure App Service specified above.",
+            "helpMarkDown": "The Resource group name is required.<br />Enter or Select the Azure Resource group that contains the Azure App Service specified above."
         },
         {
             "name": "SlotName",
